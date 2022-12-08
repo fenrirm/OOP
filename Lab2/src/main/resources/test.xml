@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Beer>
+    <BeerItem id="1">
+        <Name>N</Name>
+        <Manufacturer>M</Manufacturer>
+        <Al>true</Al>
+        <Ingredients>Glass</Ingredients>
+        <Chars>
+            <Opacity>100</Opacity>
+            <Calories>500</Calories>
+            <Rotations>5.0</Rotations>
+            <Pour>
+                <Material>Glass</Material>
+                <Volume>500</Volume>
+            </Pour>
+        </Chars>
+    </BeerItem>
+    <BeerItem id="2">
+        <Name>N2</Name>
+        <Manufacturer>M2</Manufacturer>
+        <Al>true</Al>
+        <Ingredients>Glass</Ingredients>
+        <Chars>
+            <Opacity>11</Opacity>
+            <Calories>600</Calories>
+            <Rotations>5.0</Rotations>
+            <Pour>
+                <Material>Glass</Material>
+                <Volume>500</Volume>
+            </Pour>
+        </Chars>
+    </BeerItem>
+</Beer>

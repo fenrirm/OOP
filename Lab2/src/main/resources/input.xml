@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Beer>
+    <BeerItem id="1">
+        <Name>AK-47</Name>
+        <Manufacturer>USSR</Manufacturer>
+        <Al>true</Al>
+        <Ingredients>Water, malt, hops, sugar</Ingredients>
+        <Chars>
+            <Opacity>50</Opacity>
+            <Calories>324</Calories>
+            <Rotations>5.0</Rotations>
+            <Pour>
+                <Material>Glass</Material>
+                <Volume>500</Volume>
+            </Pour>
+        </Chars>
+    </BeerItem>
+
+</Beer>
